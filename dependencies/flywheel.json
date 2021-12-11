@@ -1,0 +1,12 @@
+{
+	"mod": "flywheel",
+	"file": "flywheel-1.16-0.2.4.jar",
+	"version": "1.16-0.2.4",
+	"third_party": {
+		"required": [],
+		"suggested": [],
+		"supports": ["create"]
+	},
+	"description": "The goal of this project is to provide tools for mod developers so they no longer have to worry about performance, or limitations of Minecraft's archaic rendering engine. That said, this is primarily an outlet for me to have fun with graphics programming.",
+	"url": "https://www.curseforge.com/minecraft/mc-mods/flywheel"
+}

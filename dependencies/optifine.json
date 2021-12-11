@@ -1,0 +1,12 @@
+{
+	"mod": "optifine",
+	"file": "OptiFine_1.16.5_HD_U_G7.jar",
+	"version": "1.16.5_HD_U_G7",
+	"third_party": {
+		"required": [],
+		"suggested": [],
+		"supports": ["general"]
+	},
+	"description": "OptiFine is a Minecraft optimization mod.\nIt allows Minecraft to run faster and look better with full support for HD textures and many configuration options.\nThe official OptiFine description is on the Minecraft Forums.",
+	"url": "https://optifine.net/home"
+}

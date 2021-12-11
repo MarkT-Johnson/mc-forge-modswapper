@@ -1,0 +1,12 @@
+{
+	"mod": "jei",
+	"file": "jei-1.16.5-7.7.1.137.jar",
+	"version": "1.16.5-7.7.1.137",
+	"third_party": {
+		"required": [],
+		"suggested": [],
+		"supports": []
+	},
+	"description": "JEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance.",
+	"url": "https://www.curseforge.com/minecraft/mc-mods/jei"
+}
